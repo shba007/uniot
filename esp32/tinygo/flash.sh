@@ -1,0 +1,1 @@
+tinygo flash -monitor -baudrate=115200 -target=esp32-coreboard-v2 main.go
